@@ -1,13 +1,15 @@
+
 {
-'status':true,
-'data':{
-'SLOT':1,
-'EXP':'9999-12-02 16:05:05',
-'modname':'kmods',
-'mod_status':'safe' 'token' : '2f131141-9455-36fe-a53c-7143db5ca669',
-'key':'a',
-'device':1,
-'credit':'kmods',
-'rng':'2024-05-02 16:05:05'
+"status":true,
+"data":{
+"SLOT":1,
+"EXP":"9999-12-02 16:05:05",
+"modname":"kmods",
+"mod_status":"safe",
+"token":"2f131141-9455-36fe-a53c-7143db5ca669",
+"key":"a",
+"device":1,
+"credit":"kmods",
+"rng":"2024-05-02 16:05:05"
 }
 }
